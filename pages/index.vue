@@ -17,11 +17,6 @@
     async asyncData () {
       let { data } = await axios.get('/api/nav')
       return { args: data }
-    },
-    head () {
-      return {
-        title: 'Nuxt'
-      }
     }
   }
 </script>
