@@ -1,6 +1,6 @@
 import NuxtServer from './Core/NuxtServer' 
 
-/* A Nuxt.js with Express, Typescript
+/* Nuxt.js with Express, Typescript
  * Nuxt.js 
  * https://nuxtjs.org/
  *
